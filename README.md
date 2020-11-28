@@ -1,4 +1,4 @@
-# Image Data Set (Provinces and Districts of Nepal)
+# District Image Dataset (Province Wise)
 
 ![Nepal](https://raw.githubusercontent.com/sagautam5/province-district-image-dataset/master/nepal.png)
 
